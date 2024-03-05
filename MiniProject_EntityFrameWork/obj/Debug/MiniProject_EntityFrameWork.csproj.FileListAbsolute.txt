@@ -1,0 +1,12 @@
+C:\Users\DigiGolestan.ir\source\repos\MiniProject_EntityFrameWork\MiniProject_EntityFrameWork\obj\Debug\MiniProject_EntityFrameWork.csproj.AssemblyReference.cache
+C:\Users\DigiGolestan.ir\source\repos\MiniProject_EntityFrameWork\MiniProject_EntityFrameWork\obj\Debug\MiniProject_EntityFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\DigiGolestan.ir\source\repos\MiniProject_EntityFrameWork\MiniProject_EntityFrameWork\bin\Debug\MiniProject_EntityFrameWork.exe.config
+C:\Users\DigiGolestan.ir\source\repos\MiniProject_EntityFrameWork\MiniProject_EntityFrameWork\bin\Debug\MiniProject_EntityFrameWork.exe
+C:\Users\DigiGolestan.ir\source\repos\MiniProject_EntityFrameWork\MiniProject_EntityFrameWork\bin\Debug\MiniProject_EntityFrameWork.pdb
+C:\Users\DigiGolestan.ir\source\repos\MiniProject_EntityFrameWork\MiniProject_EntityFrameWork\bin\Debug\EntityFramework.dll
+C:\Users\DigiGolestan.ir\source\repos\MiniProject_EntityFrameWork\MiniProject_EntityFrameWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DigiGolestan.ir\source\repos\MiniProject_EntityFrameWork\MiniProject_EntityFrameWork\bin\Debug\EntityFramework.xml
+C:\Users\DigiGolestan.ir\source\repos\MiniProject_EntityFrameWork\MiniProject_EntityFrameWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DigiGolestan.ir\source\repos\MiniProject_EntityFrameWork\MiniProject_EntityFrameWork\obj\Debug\MiniProj.1B0F9248.Up2Date
+C:\Users\DigiGolestan.ir\source\repos\MiniProject_EntityFrameWork\MiniProject_EntityFrameWork\obj\Debug\MiniProject_EntityFrameWork.exe
+C:\Users\DigiGolestan.ir\source\repos\MiniProject_EntityFrameWork\MiniProject_EntityFrameWork\obj\Debug\MiniProject_EntityFrameWork.pdb
